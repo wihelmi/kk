@@ -96,6 +96,8 @@ STRINGS.KK_COATING_CAUTION = KK_SETSTRING("涂层快要脱落了!", "The coating
 
 
 --Just replace the text ("xxx")
+"Broken self-discipline doll, trying to change the personality module into its own maker."
+
 local PLAYERS = {
     ATTACKER = STRINGS.CHARACTERS.GENERIC.DESCRIBE.PLAYER.ATTACKER,
     MURDERER = STRINGS.CHARACTERS.GENERIC.DESCRIBE.PLAYER.MURDERER,
